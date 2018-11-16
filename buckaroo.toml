@@ -1,1 +1,5 @@
 targets = [ "//:math" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-lexical_cast"
+version = "branch=master"
