@@ -1,0 +1,17 @@
+manifest = "83123f7a1c0bf16921a325968cee98a576e38df5e5b32effc30e95e1149d4d1b"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-lexical_cast"
+target = "//:lexical-cast"
+
+[lock."github.com/buckaroo-pm/boost-container"]
+versions = [ "branch=master" ]
+revision = "fb0dbf2f863db4b7dfc9e3cff17319e2d0a6a3df"
+
+[lock."github.com/buckaroo-pm/boost-intrusive"]
+versions = [ "branch=master" ]
+revision = "4470c0f1a809e06ab91ac67eeef3b1317430de2e"
+
+[lock."github.com/buckaroo-pm/boost-lexical_cast"]
+versions = [ "branch=master" ]
+revision = "faf2a66c39c1803227dcd54281894535bcb686b1"
