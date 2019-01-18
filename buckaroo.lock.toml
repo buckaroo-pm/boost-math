@@ -38,7 +38,7 @@ revision = "5a8bb5676742a02b9e2d343ecec66639da9deb3e"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
-revision = "f2f2d0d85496b72eeff1186518deb7e23c757bfd"
+revision = "60c77dd14f5bac2b9e6c59f308b7ad20d31f70ab"
 
 [lock."github.com/buckaroo-pm/boost-container"]
 versions = [ "branch=master" ]
@@ -50,7 +50,7 @@ revision = "82480080750b32b3ef2e3f12157b5c556ae35c0d"
 
 [lock."github.com/buckaroo-pm/boost-detail"]
 versions = [ "branch=master" ]
-revision = "94aa5268c1a74468be94b40afd730aea1730ceab"
+revision = "ec2d46a5e413ca9f1c97b2628732bc114e83e3f8"
 
 [lock."github.com/buckaroo-pm/boost-exception"]
 versions = [ "branch=master" ]
@@ -102,7 +102,7 @@ revision = "613f7a038214f92d7235de669bedc3710657f353"
 
 [lock."github.com/buckaroo-pm/boost-static_assert"]
 versions = [ "branch=master" ]
-revision = "4b9da4628bc69ad0e9b244d3ec885f2eadac95d8"
+revision = "8256c9846a133573ff959e0a7dc0cadb8fba5192"
 
 [lock."github.com/buckaroo-pm/boost-throw_exception"]
 versions = [ "branch=master" ]
@@ -110,7 +110,7 @@ revision = "788503e2365554d1860c6d2043999e3430d1f7a5"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "a34caf51f831ffb77d1057c668b5db620863d191"
+revision = "b8e0fcc49cede65c3b4ef18ed5aa797225578467"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
