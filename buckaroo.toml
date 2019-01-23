@@ -19,3 +19,19 @@ version = "branch=master"
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-smart_ptr"
 version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-atomic"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-multiprecision"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-ublas"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-test"
+version = "branch=master"
