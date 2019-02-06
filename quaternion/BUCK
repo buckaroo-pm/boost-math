@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'big-seventh',
+  srcs = [
+    'big_seventh.cpp',
+  ],
+  deps = [
+    '//:math',
+  ],
+)
