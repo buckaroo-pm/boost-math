@@ -28,5 +28,6 @@ before_install:
   - ./travis/before-install-$TRAVIS_OS_NAME.sh
 
 script:
+  - ./bin/buckaroo install
   - ./bin/buck build -c ui.superconsole=DISABLED //:math
   - ./bin/buck run -c ui.superconsole=DISABLED //example:big-seventh
