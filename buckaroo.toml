@@ -1,0 +1,37 @@
+targets = [ "//:math" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.24.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.24.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-lexical_cast"
+version = "1.24.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-predef"
+version = "1.24.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+version = "1.24.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-atomic"
+version = "1.24.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-multiprecision"
+version = "1.24.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-ublas"
+version = "1.24.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-test"
+version = "1.24.0"
