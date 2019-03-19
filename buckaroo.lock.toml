@@ -1,4 +1,4 @@
-manifest = "d6fce16f7b7834976713030608e1c69434f45d0f12557d3e9e29f00f686f7238"
+manifest = "b603085a7a5c2e5ea6d48d74e621ce22824ffcb2018749fd1c00434a064d0708"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-atomic"
@@ -134,7 +134,7 @@ revision = "a1873af9c1d31fb8ec2a87482b6bb9729439b4ac"
 
 [lock."github.com/buckaroo-pm/boost-multiprecision"]
 versions = [ "branch=master" ]
-revision = "d931e50f7e9eb5d846aab6dff882728802d84361"
+revision = "7b8034e789068629ce2698f8ab76e206a4f7db8b"
 
 [lock."github.com/buckaroo-pm/boost-numeric_conversion"]
 versions = [ "branch=master" ]
@@ -182,7 +182,7 @@ revision = "fdc2df7f811436674a1c55c766b8830a8cd02e96"
 
 [lock."github.com/buckaroo-pm/boost-system"]
 versions = [ "branch=master" ]
-revision = "623a2c80a8448da0df4e7f20102e9e929e355551"
+revision = "7730c1c9ba6e809ab7e21c9115d362d5a717b112"
 
 [lock."github.com/buckaroo-pm/boost-test"]
 versions = [ "branch=master" ]
@@ -230,4 +230,4 @@ revision = "44002f228a0b91c556cd41f8ceb5b4bff7745166"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
-revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
+revision = "7dfc9d72ec1fd0a47d0ef4f8e7756c797ad26f53"
